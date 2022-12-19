@@ -1,0 +1,37 @@
+2022-12-16 03:30:37,899 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py - Bangalore (BLR) 
+2022-12-16 03:30:40,127 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - length of all org city10 
+2022-12-16 03:30:40,147 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - yes 
+2022-12-16 03:30:40,170 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py - Bangalore (BLR)
+Kempegowda International
+India 
+2022-12-16 03:30:44,471 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py - New York (NYC)
+All airports
+United States 
+2022-12-16 03:57:29,742 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py -  origin city search  is Bangalore (BLR) 
+2022-12-16 03:57:31,974 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - length of all org city = 10 
+2022-12-16 03:57:34,259 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - depart city length is 10 
+2022-12-16 03:58:20,373 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py -  origin city search  is Bangalore (BLR) 
+2022-12-16 03:58:32,165 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - length of all org city = 10 
+2022-12-16 03:58:32,305 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - yes 
+2022-12-16 03:58:32,324 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py - Bangalore (BLR)
+Kempegowda International
+India 
+2022-12-16 03:58:36,598 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - depart city length is 10 
+2022-12-16 03:58:36,783 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py -  search city = New York (NYC)
+All airports
+United States 
+2022-12-16 03:58:42,980 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py - lenght of date is  403 
+2022-12-16 03:59:41,216 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py -  origin city search  is Bangalore (BLR) 
+2022-12-16 03:59:43,410 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - length of all org city = 10 
+2022-12-16 03:59:45,723 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - depart city length is 10 
+2022-12-16 03:59:45,780 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py -  search city = New York (NYC)
+All airports
+United States 
+2022-12-16 03:59:51,938 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py - lenght of date is  403 
+2022-12-16 04:02:25,938 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py -  origin city search  is Bangalore (BLR) 
+2022-12-16 04:02:28,380 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - length of all org city = 10 
+2022-12-16 04:02:28,426 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - yes 
+2022-12-16 04:02:28,448 - WARNING - C:\pythonProject1\project_pytest\pages\test_case2.py - Bangkok (BKK)
+Suvarnabhumi
+Thailand 
+2022-12-16 04:02:32,620 - DEBUG - C:\pythonProject1\project_pytest\pages\test_case2.py - depart city length is 10 

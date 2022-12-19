@@ -1,0 +1,10 @@
+---
+test1:
+  origin: Bangalore
+  depart: london
+  dat: 01/01/2023
+test2:
+  origin: New delhi
+  depart: Chennai
+  dat: 05/05/2023
+...

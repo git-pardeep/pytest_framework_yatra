@@ -1,0 +1,54 @@
+2022-12-17 01:09:07,961 - WARNING - __name__ -  origin city search  is BLR 
+2022-12-17 01:09:10,181 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 01:09:12,499 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 01:09:14,052 - WARNING - __name__ -  origin city search  is DEL 
+2022-12-17 01:09:16,166 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 01:09:16,179 - DEBUG - __name__ - yes 
+2022-12-17 01:09:16,201 - WARNING - __name__ - New Delhi (DEL)
+Indira Gandhi International
+India 
+2022-12-17 01:09:20,350 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 01:09:20,438 - WARNING - __name__ -  search city = Chennai (MAA)
+Chennai International
+India 
+2022-12-17 01:09:26,592 - WARNING - __name__ - lenght of date is  402 
+2022-12-17 01:32:54,838 - WARNING - __name__ -  origin city search  is BLR 
+2022-12-17 01:32:57,053 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 01:32:57,383 - WARNING - __name__ -  origin city search  is BOM 
+2022-12-17 01:32:59,505 - DEBUG - __name__ - length of all org city = 1 
+2022-12-17 01:33:01,655 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 01:33:22,860 - WARNING - __name__ -  origin city search  is BLR 
+2022-12-17 01:33:25,022 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 01:33:25,039 - DEBUG - __name__ - yes 
+2022-12-17 01:33:25,062 - WARNING - __name__ - Bangalore (BLR)
+Kempegowda International
+India 
+2022-12-17 01:33:29,228 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 01:33:29,546 - WARNING - __name__ -  origin city search  is BOM 
+2022-12-17 01:33:31,656 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 01:33:31,684 - DEBUG - __name__ - yes 
+2022-12-17 01:33:31,708 - WARNING - __name__ - Mumbai (BOM)
+Chhatrapati Shivaji International
+India 
+2022-12-17 01:33:35,872 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 01:36:02,261 - WARNING - __name__ -  origin city search  is BLR 
+2022-12-17 01:36:04,487 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 01:36:04,750 - WARNING - __name__ -  origin city search  is BOM 
+2022-12-17 01:36:06,855 - DEBUG - __name__ - length of all org city = 1 
+2022-12-17 01:36:09,001 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 01:43:44,090 - WARNING - __name__ -  origin city search  is BLR 
+2022-12-17 01:43:46,272 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 01:43:46,533 - WARNING - __name__ -  origin city search  is BOM 
+2022-12-17 01:43:48,650 - DEBUG - __name__ - length of all org city = 1 
+2022-12-17 01:43:50,797 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 02:14:43,668 - WARNING - __name__ -  origin city search  is origin 
+2022-12-17 02:14:45,854 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 02:14:46,321 - WARNING - __name__ -  origin city search  is london 
+2022-12-17 02:14:48,440 - DEBUG - __name__ - length of all org city = 1 
+2022-12-17 02:14:50,594 - DEBUG - __name__ - depart city length is 10 
+2022-12-17 02:14:50,695 - WARNING - __name__ -  origin city search  is New delhi 
+2022-12-17 02:14:52,823 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 02:19:09,923 - WARNING - __name__ -  origin city search  is london 
+2022-12-17 02:19:12,213 - DEBUG - __name__ - length of all org city = 10 
+2022-12-17 02:19:12,638 - WARNING - __name__ -  origin city search  is New delhi 
+2022-12-17 02:19:14,765 - DEBUG - __name__ - length of all org city = 10 
